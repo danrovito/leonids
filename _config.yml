@@ -3,7 +3,7 @@
 # Site wide configuration
 ####################################
 #
-title: danrovito
+title: "dan rovito"
 email:
 description: A simple and awesome blog theme powered by jekyll.
 url: https://danrovito.github.io/leonids
@@ -33,7 +33,7 @@ kramdown:
 ####################################
 #
 owner:
-  name: danrovito
+  name: "dan rovito"
   avatar: logo.png
   job: 
   bio: "A simple and awesome blog theme powered by jekyll."
