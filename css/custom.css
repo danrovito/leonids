@@ -22,3 +22,8 @@ section.post {
     margin-bottom: 40px;
     border-bottom: 1px solid #ccc;
 }
+.social-links ul li {
+    list-style: none;
+    display: inline-block;
+    margin-left: 1px;
+}
