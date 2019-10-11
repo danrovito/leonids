@@ -18,3 +18,7 @@
     color: #8342b9;
 }
  */
+section.post {
+    margin-bottom: 40px;
+    border-bottom: 1px solid #ccc;
+}
