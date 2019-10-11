@@ -13,3 +13,7 @@
     font-size: 1.75em;
     text-transform: lowercase;
 }
+.post-meta .post-cat {
+    text-transform: uppercase;
+    color: #8342b9;
+}
