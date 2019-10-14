@@ -3,10 +3,11 @@
 # Site wide configuration
 ####################################
 #
-title: DanRovito
+
+title: "Dan Rovito | Gamemaker Studio Development"
 email:
-description: A simple and awesome blog theme powered by jekyll.
-url: # the base hostname & protocol for your site
+description: A game developer from Cincinnati, OH.
+url: https://danrovito.github.io/leonids
 keywords: ["blog", "jekyll"]
 
 #
@@ -33,13 +34,13 @@ kramdown:
 ####################################
 #
 owner:
-  name: danrovito
-  avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
+  name: "dan rovito"
+  avatar: logo.png
+  job: 
+  bio: "A game developer from Cincinnati, OH."
   email:
   disqus-shortname:
-  twitter: #username
+  twitter: danrovito
   facebook: #username
   google:
     plus: #username
@@ -48,7 +49,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: danrovito
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
@@ -69,3 +70,7 @@ owner:
   codepen: #username
   reddit: #username
   telegram: #username
+
+webrick:
+  headers:
+    Access-Control-Allow-Origin: "*"

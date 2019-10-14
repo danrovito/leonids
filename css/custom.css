@@ -1,0 +1,29 @@
+.nav-list .nav-item a {
+    color: #42b983;
+}
+.post-meta .post-date {
+    color: #42b983;
+}
+.social-links ul li a.social-link-item {
+    color: #42b983;
+}
+.cover-card .author_name {
+    display: block;
+    color: #8342b9;
+    font-size: 1.75em;
+    text-transform: lowercase;
+}
+/* .post-meta .post-cat {
+    text-transform: uppercase;
+    color: #8342b9;
+}
+ */
+section.post {
+    margin-bottom: 40px;
+    border-bottom: 1px solid #ccc;
+}
+.social-links ul li {
+    list-style: none;
+    display: inline-block;
+    margin-left: 1px;
+}
